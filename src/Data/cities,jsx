@@ -1,0 +1,19 @@
+export const cityList = [
+    "Phulbani",
+    "Bhubaneswar",
+  "London",
+  "Los Angeles",
+  "Paris",
+  "New York",
+  "Berlin",
+  "Tokyo",
+  "Mumbai",
+  "Sydney",
+  "Dubai",
+  "Toronto",
+  "Delhi",
+  "Bangalore",
+  "Kolkata",
+  "Moscow",
+  "Singapore"
+];
